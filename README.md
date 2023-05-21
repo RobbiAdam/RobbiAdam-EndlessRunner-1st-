@@ -4,8 +4,8 @@ Platformer Endless Run game
 my second game that i made.
 what do i learn from making this :
 
-Lack input buffer for easier input (jumping and sliding)
-Difficulty increases as game progressing
+Lack input buffer for easier input (jumping and sliding).
+Difficulty increases as game progressing.
 UI pivot to keep the UI intact if the resolution change.
 
 i still don't know how to avoid error to build on webGL
